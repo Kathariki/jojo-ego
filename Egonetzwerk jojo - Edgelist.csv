@@ -1,0 +1,17 @@
+from,to,weight,Häufigkeit,Dauer,Verbindung
+JK,MB,3,4,1,"1, 4 "
+JK,CK,2,2,3,"3, 5"
+JK,GK,2,3,3,"2, 5"
+JK,MK,2,2,3,"2, 5"
+MB,CK,1,,,
+MB,GK,1,,,
+MB,MK,1,,,
+CK,MB,1,,,
+CK,GK,3,,,
+CK,MK,3,,,
+GK,MB,3,,,
+GK,CK,3,,,
+GK,MK,3,,,
+MK,MB,1,,,
+MK,CK,3,,,
+MK,GK,3,,,
